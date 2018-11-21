@@ -74,6 +74,7 @@ end
   end
   
   def call_friend(friend)
+    friend.happiness += 3
 end
 
 end
