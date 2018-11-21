@@ -76,7 +76,10 @@ end
   def call_friend(friend)
     self.happiness += 3
     friend.happiness += 3
+    if friend = "Penelope"
     return "Hi Felix! It's Penelope. How are you?"
+  else
+    return
 end
 
 end
