@@ -67,6 +67,6 @@ end
   end
   
   def work_out
-    
+    self.hygiene -= 3
   end
 end
