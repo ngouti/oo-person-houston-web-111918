@@ -55,8 +55,9 @@ def get_paid(salary)
   return "all about the benjamins"
 end
 
+
   def take_bath
-    hygiene += 4
+    self.hygiene += 4
     #hygiene=(4)
     #self calls setter method 
   #   @hygiene += 4
