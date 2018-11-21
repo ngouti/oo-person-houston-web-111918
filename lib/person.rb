@@ -69,5 +69,6 @@ end
   
   def work_out
     self.hygiene -= 3
+    self.happiness += 2
   end
 end
