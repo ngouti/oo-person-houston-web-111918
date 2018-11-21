@@ -84,7 +84,8 @@ def start_conversation(person, topic)
     person.happiness -= 2
     self.happiness -= 2
     return 'blah blah partisan blah lobbyist'
-    
+    elsif topic == "weather"
+    return 
   end
 end
 
