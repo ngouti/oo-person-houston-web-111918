@@ -58,7 +58,7 @@ end
   def take_bath
     self.hygiene += 4
     #hygiene=(4)
-    #self or @ calls setter method 
+    #self calls setter method 
   #   @hygiene += 4
   # if self.hygiene > 10
   #   @hygiene = 10
