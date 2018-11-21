@@ -56,7 +56,7 @@ def get_paid(salary)
 end
 
   def take_bath
-    self.hygiene += @hygiene
+    self.hygiene += 4
   #   @hygiene += 4
   # if self.hygiene > 10
   #   @hygiene = 10
