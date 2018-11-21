@@ -80,6 +80,8 @@ end
     return "Hi Felix! It's Penelope. How are you?"
   else
     return
+    "Hi Penelope! It's Felix. How are you?"
+  end
 end
 
 end
